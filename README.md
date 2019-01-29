@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is a simple example of a React application which utilizes [Redux](http://redux.js.org) for handling application state.
 
 ## Available Scripts
 
